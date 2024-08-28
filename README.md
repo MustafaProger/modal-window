@@ -11,7 +11,7 @@ This repository contains a simple implementation of a modal window using HTML, C
 
 ## 🌐 Demo
 
-You can view a live demo of the modal window [here](https://mustafaproger.github.io/modal-window/).
+You can view a live demo of the modal window [here](https://mustafaproger.github.io/modal-window/dist).
 
 ## 📥 Installation
 
