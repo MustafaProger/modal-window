@@ -1,0 +1,24 @@
+@mixin button
+    cursor: pointer
+    display: block
+    min-height: 40px
+    margin: 10px auto
+    color: $color1
+    background-color: $color4
+    border: 2px solid $color4
+    border-radius: 5px
+    transition: ease-in-out 0.25s
+    &:hover
+        box-shadow: 0 0 15px $color4
+
+
+@mixin modal
+    display: none
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+    width: 400px
+    height: auto
+    background-color: $color3
+    padding: 30px
